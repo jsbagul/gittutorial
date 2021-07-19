@@ -1,2 +1,4 @@
 This an 3rd dummy txt file for git practice
 2)and 2nd time i edit third txt file
+3rd time change in third txt file
+4th time change in third text file
